@@ -1,0 +1,29 @@
+{
+  "name": "ESP-Music",
+  "version": "1.0.0",
+  "description": "Simple music playback library for ESP boards with note duration support.",
+  "keywords": [
+    "music",
+    "buzzer",
+    "sound",
+    "note",
+    "esp32",
+    "esp8266"
+  ],
+  "authors": [
+    {
+      "name": "Ertugrul Kara",
+      "email": "ertugrulkra@gmail.com",
+      "url": "https://github.com/ErtugrulKra"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ErtugrulKra/ESP-Music",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErtugrulKra/ESP-Music.git"
+  },
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32", "espressif8266"],
+  "headers": "ESP_Music.h"
+}
