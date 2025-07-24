@@ -15,7 +15,7 @@
 #define NOTE_GS1 52
 #define NOTE_A1  55
 #define NOTE_AS1 58
-#define NOTE_B1  62c:\Users\ertug\OneDrive\Belgeler\Arduino\ESP_Music\ESP_Music.h
+#define NOTE_B1  62
 #define NOTE_C2  65
 #define NOTE_CS2 69
 #define NOTE_D2  73
